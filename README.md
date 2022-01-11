@@ -25,3 +25,5 @@ Run the following command on the terminal:
 3. Install  all dependancies ( pip install -r requirements.txt)
 4. Create database (CREATE DATABASE hood;)
 5. Make migrations
+
+
