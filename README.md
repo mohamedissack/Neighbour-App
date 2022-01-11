@@ -4,4 +4,4 @@
 Mohamed Issack Abdi
 
 ## Description
-A website to keep a user in theloop 
+A website to keep a user in theloop about
