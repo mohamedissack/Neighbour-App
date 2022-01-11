@@ -42,8 +42,7 @@ Run the following command on the terminal:
     Django
 
 ## Live link:
-
-
+Here is the live link: https://hoodwtch.herokuapp.com/
 
 ## License
 
