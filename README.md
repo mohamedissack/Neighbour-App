@@ -26,4 +26,6 @@ Run the following command on the terminal:
 4. Create database (CREATE DATABASE hood;)
 5. Make migrations
 
-
+#### Database Migrations
+    python3 manage.py makemigrations neighapp
+    python3 manage.py migrate
