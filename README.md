@@ -36,4 +36,8 @@ Run the following command on the terminal:
 
 7.  Testing the application
      python3 manage.py test neighapp
-     
+## Technologies used
+    Python 3.8
+    Bootstrap
+    Django
+        
