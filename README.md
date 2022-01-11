@@ -17,3 +17,7 @@ A website to keep a user in the loop about everything happening within their nei
 ### Clone the  project 
 Run the following command on the terminal:
 `git clone https://github.com/mohamedissack/Neighbour-App.git`
+
+
+###  Project Setup
+1. Create virtual environment (python3 -m venv virtual)
