@@ -36,3 +36,4 @@ Run the following command on the terminal:
 
 7.  Testing the application
      python3 manage.py test neighapp
+     
