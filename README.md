@@ -21,3 +21,4 @@ Run the following command on the terminal:
 
 ###  Project Setup
 1. Create virtual environment (python3 -m venv virtual)
+2. Activate virtual environment (. virtual/bin/activate)
