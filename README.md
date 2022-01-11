@@ -24,4 +24,3 @@ Run the following command on the terminal:
 2. Activate virtual environment (. virtual/bin/activate)
 3. Install  all dependancies ( pip install -r requirements.txt)
 4. Create database (CREATE DATABASE hood;)
-5. Make migrations
