@@ -9,3 +9,4 @@ A website to keep a user in the loop about everything happening within their nei
 
 ### Prerequisites
 1. Python version 3.8
+2. Django 
