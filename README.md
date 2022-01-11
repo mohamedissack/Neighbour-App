@@ -11,3 +11,4 @@ A website to keep a user in the loop about everything happening within their nei
 1. Python version 3.8
 2. Django 
 3. Pip
+4. Virtual Environment(venv)
