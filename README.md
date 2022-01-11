@@ -4,4 +4,5 @@
 Mohamed Issack Abdi
 
 ## Description
-A website to keep a user in the loop about everything happening within their neighbourhood
+A website to keep a user in the loop about everything happening within their neighbourhood.
+## Set Up and Installations
