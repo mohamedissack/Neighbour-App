@@ -41,3 +41,8 @@ Run the following command on the terminal:
     Bootstrap
     Django
         
+
+
+## License
+
+This project is under the [MIT](LICENSE) license.
