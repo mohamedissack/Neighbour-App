@@ -29,3 +29,7 @@ Run the following command on the terminal:
 #### Database Migrations
     python3 manage.py makemigrations neighapp
     python3 manage.py migrate
+
+6. Run the application
+    ### Run
+    python3.8 manage.py runserver
