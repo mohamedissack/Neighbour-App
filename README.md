@@ -40,7 +40,9 @@ Run the following command on the terminal:
     Python 3.8
     Bootstrap
     Django
-        
+
+## Live link:
+
 
 
 ## License
